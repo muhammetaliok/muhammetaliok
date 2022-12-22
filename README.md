@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammetaliok
+- 👋 Hi, I’m @muhammetaliok, Computer engineering student at Trakya University.
 - 👀 I’m interested in Python which Django web backend and Machine Learning.
 - 🌱 I’m currently learning Spring
 - 📫 How to reach me muhammeetok@gmail.com
